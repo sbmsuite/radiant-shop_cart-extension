@@ -1,0 +1,13 @@
+usps: 
+  login: APIKey
+ups: 
+  key: XmlAccessKey
+  login: UPSDotComLogin
+  password: UPSDotComPassword
+fedex:
+  login: FedExAccountNumber
+  password: FedExMeterNumber
+  test: true
+shipwire:
+  login: EmailAddress
+  password: Password

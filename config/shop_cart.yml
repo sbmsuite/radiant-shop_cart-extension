@@ -1,0 +1,16 @@
+merchant_account:
+  name: bogus
+  user_name: user
+  password: pwd
+
+ups_shipping:
+  login: bogus
+  password: pwd
+  key: xxx
+
+usps_shipping:
+  login: bogus
+
+fedex_shipping:
+  login: bogus
+  password: pwd
